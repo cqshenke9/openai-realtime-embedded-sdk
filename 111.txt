@@ -1,0 +1,4 @@
+
+export WIFI_SSID=shenke-5G
+export WIFI_PASSWORD=CQSK8888
+export OPENAI_API_KEY=bing
